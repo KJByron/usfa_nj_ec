@@ -110,6 +110,8 @@ a_df |> filter(Weapon == "Foil" & is_conflict) |>
 # 9    Manchen 2025-10-17   Foil         U
 # 10      NJFA 2025-10-18   Foil CDEU,EU,V
 # 11  Freehold 2025-10-19   Foil    ABCDEU
+a_df |> filter(Weapon == "Foil") |> pull(is_conflict) |> which() + 1
+# [1]  2  3  4  5  6  7 10 11 16 17 18
 
 a_df |> filter(Weapon == "Epee" & is_conflict) |>
   select(Club.name, Date, Weapon, cat2)
@@ -128,9 +130,55 @@ a_df |> filter(Weapon == "Epee" & is_conflict) |>
 # 12   Wanglei 2025-10-11   Epee  ABCDEU,Y
 # 13      BCAF 2025-10-12   Epee    ABCDEU
 # 14  Ultimate 2025-10-12   Epee  ABCDEU,Y
+a_df |> filter(Weapon == "Epee") |> pull(is_conflict) |> which() + 1
+# [1]  3  4  5  6  9 10 11 12 13 18 19 21 22 23
 
 a_df |> filter(Weapon == "Sabre" & is_conflict) |>
   select(Club.name, Date, Weapon, cat2)
 #      Club.name       Date Weapon       cat2
 # 1 Escrimeur FC 2025-09-14  Sabre Y,ABCDEU,V
 # 2         NJFA 2025-09-14  Sabre        Y,V
+a_df |> filter(Weapon == "Sabre") |> pull(is_conflict) |> which() + 1
+# [1] 5 6
+
+
+## look at percent conflicts per club
+a_df
+group_by(Club.name) |>
+  summarise(
+    conflict = sum(is_conflict),
+    total = n()
+  ) |>
+  mutate(
+    conflict_percent = round(100 * conflict / total, 1)
+  ) |> 
+  arrange(desc(total))
+#   Club.name    conflict total conflict (%)
+# 1 Freehold            5    17         29.4
+# 2 NJFA                8    14         57.1
+# 3 Manchen             4     8         50  
+# 4 Valhalla            5     6         83.3
+# 5 Medeo               1     4         25  
+# 6 BCAF                2     2        100  
+# 7 Escrimeur FC        1     2         50  
+# 8 Ultimate            2     2        100  
+# 9 Wanglei             2     2        100 
+
+
+a2_df <- a_df |> 
+  group_by(Weapon) |>
+  mutate(
+    sheet_row = 1 + 1:n(),
+    .before = 1
+  ) |>
+  ungroup() |> 
+  select(sheet_row, Club.name, Date, Weapon, cat2, is_conflict)
+a2_df |> 
+  filter(Weapon == "Foil", 
+         Club.name %in% c("Wanglei", "Ultimate", "Escrimeur FC", "BCAF"))
+a2_df |> 
+  filter(Weapon == "Epee", 
+         Club.name %in% c("Wanglei", "Ultimate", "Escrimeur FC", "BCAF"))
+a2_df |> 
+  filter(Weapon == "Sabre", 
+         Club.name %in% c("Wanglei", "Ultimate", "Escrimeur FC", "BCAF"))
