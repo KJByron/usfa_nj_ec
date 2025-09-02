@@ -1,0 +1,1067 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Fencing Tournament Results | AskFRED</title>
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="Chn3N7B82yV0kIfijj40oFunjTH6BnGREKL0jlcRxpZ93Hww/zQZnjL8ZlBqrCOu/U7OgwNozk3aSfv7qy+lHg==" />
+    
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <link href="https://cdn.jsdelivr.net/gh/hung1001/font-awesome-pro@4cac1a6/css/all.css" rel="stylesheet" type="text/css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;900&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <script src="/assets/application-02294ae4c73ef503b10cb4d375ba2a69be749c00d08ffc4534b42f2d513cc53b.js"></script>
+    <link rel="stylesheet" media="all" href="/assets/application-5c1f3e14ddadf8a02b480bc146f894dbcfce2bdeff304cd910a2e0594c65d0fc.css" />
+    <script src="/packs/js/application-8abeb7a479c40f7b2ba6.js"></script>
+    <link rel="stylesheet" media="screen" href="/packs/css/application-eaa4ed82.css" />
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.9.0/js/bootstrap-datepicker.min.js" integrity="sha512-T/tUfKSV1bihCnd+MxKD0Hm1uBBroVYBOYSk1knyvQ9VyZJpc/ALb4P0r6ubwVPSGB2GvjeoMAJJImBG12TiaQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.9.0/css/bootstrap-datepicker.min.css" integrity="sha512-mSYUmp1HYZDFaVKK//63EcZq4iFWFjxSL+Z3T/aCt4IO9Cejm03q3NKKYN6pFQzY0SBOr8h+eCIAZHPXcpZaNw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <link href="https://cdn.jsdelivr.net/npm/quill@2.0.0/dist/quill.snow.css" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/quill@2.0.0/dist/quill.js"></script>
+    <script src="https://unpkg.com/quill-magic-url@3.0.0/dist/index.js"></script>
+
+    <meta property="og:title" content="Fencing Tournament Results | AskFRED" />
+    <meta property="og:site_name" content="AskFRED" />
+    <meta name="facebook-domain-verification" content="htfs0fnakcbnkgf6h7umq231lu32cr" />
+    
+
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZG27L95FTT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZG27L95FTT', {
+  });
+</script>
+
+<script>
+  var _rollbarConfig = {
+    accessToken: "151f7bf480834c22a5c82f1b38913910",
+    captureUncaught: true,
+    captureUnhandledRejections: true,
+    hostSafeList: ['askfred.net', 'staging.askfred.net', 'askfred.test'],
+    ignoredMessages: [
+      "ResizeObserver loop limit exceeded", 
+      "(unknown): Script error.", 
+      "Script error.", 
+      "Error: Network Error",
+      "Can't find variable google",
+      /AbortError/i,
+      /Load failed/i,
+      /Tab not found/i,
+      /\(unknown\):/i,
+      /Request failed with status code/i,
+      /Network Error/i,
+      /UnknownError/i
+    ],
+    payload: {
+      environment: "production",
+      client: {
+        javascript: {
+          code_version: "",
+        }
+      },
+    }
+  };
+  // Rollbar Snippet
+  !function(r){var e={};function o(n){if(e[n])return e[n].exports;var t=e[n]={i:n,l:!1,exports:{}};return r[n].call(t.exports,t,t.exports,o),t.l=!0,t.exports}o.m=r,o.c=e,o.d=function(r,e,n){o.o(r,e)||Object.defineProperty(r,e,{enumerable:!0,get:n})},o.r=function(r){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(r,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(r,"__esModule",{value:!0})},o.t=function(r,e){if(1&e&&(r=o(r)),8&e)return r;if(4&e&&"object"==typeof r&&r&&r.__esModule)return r;var n=Object.create(null);if(o.r(n),Object.defineProperty(n,"default",{enumerable:!0,value:r}),2&e&&"string"!=typeof r)for(var t in r)o.d(n,t,function(e){return r[e]}.bind(null,t));return n},o.n=function(r){var e=r&&r.__esModule?function(){return r.default}:function(){return r};return o.d(e,"a",e),e},o.o=function(r,e){return Object.prototype.hasOwnProperty.call(r,e)},o.p="",o(o.s=0)}([function(r,e,o){"use strict";var n=o(1),t=o(5);_rollbarConfig=_rollbarConfig||{},_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||"https://cdn.rollbar.com/rollbarjs/refs/tags/v2.25.2/rollbar.min.js",_rollbarConfig.async=void 0===_rollbarConfig.async||_rollbarConfig.async;var a=n.setupShim(window,_rollbarConfig),l=t(_rollbarConfig);window.rollbar=n.Rollbar,a.loadFull(window,document,!_rollbarConfig.async,_rollbarConfig,l)},function(r,e,o){"use strict";var n=o(2),t=o(3);function a(r){return function(){try{return r.apply(this,arguments)}catch(r){try{console.error("[Rollbar]: Internal error",r)}catch(r){}}}}var l=0;function i(r,e){this.options=r,this._rollbarOldOnError=null;var o=l++;this.shimId=function(){return o},"undefined"!=typeof window&&window._rollbarShims&&(window._rollbarShims[o]={handler:e,messages:[]})}var s=o(4),d=function(r,e){return new i(r,e)},c=function(r){return new s(d,r)};function u(r){return a((function(){var e=this,o=Array.prototype.slice.call(arguments,0),n={shim:e,method:r,args:o,ts:new Date};window._rollbarShims[this.shimId()].messages.push(n)}))}i.prototype.loadFull=function(r,e,o,n,t){var l=!1,i=e.createElement("script"),s=e.getElementsByTagName("script")[0],d=s.parentNode;i.crossOrigin="",i.src=n.rollbarJsUrl,o||(i.async=!0),i.onload=i.onreadystatechange=a((function(){if(!(l||this.readyState&&"loaded"!==this.readyState&&"complete"!==this.readyState)){i.onload=i.onreadystatechange=null;try{d.removeChild(i)}catch(r){}l=!0,function(){var e;if(void 0===r._rollbarDidLoad){e=new Error("rollbar.js did not load");for(var o,n,a,l,i=0;o=r._rollbarShims[i++];)for(o=o.messages||[];n=o.shift();)for(a=n.args||[],i=0;i<a.length;++i)if("function"==typeof(l=a[i])){l(e);break}}"function"==typeof t&&t(e)}()}})),d.insertBefore(i,s)},i.prototype.wrap=function(r,e,o){try{var n;if(n="function"==typeof e?e:function(){return e||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._rollbar_wrapped&&(r._rollbar_wrapped=function(){o&&"function"==typeof o&&o.apply(this,arguments);try{return r.apply(this,arguments)}catch(o){var e=o;throw e&&("string"==typeof e&&(e=new String(e)),e._rollbarContext=n()||{},e._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=e),e}},r._rollbar_wrapped._isWrap=!0,r.hasOwnProperty))for(var t in r)r.hasOwnProperty(t)&&(r._rollbar_wrapped[t]=r[t]);return r._rollbar_wrapped}catch(e){return r}};for(var p="log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleAnonymousErrors,handleUnhandledRejection,captureEvent,captureDomContentLoaded,captureLoad".split(","),f=0;f<p.length;++f)i.prototype[p[f]]=u(p[f]);r.exports={setupShim:function(r,e){if(r){var o=e.globalAlias||"Rollbar";if("object"==typeof r[o])return r[o];r._rollbarShims={},r._rollbarWrappedError=null;var l=new c(e);return a((function(){e.captureUncaught&&(l._rollbarOldOnError=r.onerror,n.captureUncaughtExceptions(r,l,!0),e.wrapGlobalEventHandlers&&t(r,l,!0)),e.captureUnhandledRejections&&n.captureUnhandledRejections(r,l,!0);var a=e.autoInstrument;return!1!==e.enabled&&(void 0===a||!0===a||function(r){return!("object"!=typeof r||void 0!==r.page&&!r.page)}(a))&&r.addEventListener&&(r.addEventListener("load",l.captureLoad.bind(l)),r.addEventListener("DOMContentLoaded",l.captureDomContentLoaded.bind(l))),r[o]=l,l}))()}},Rollbar:c}},function(r,e,o){"use strict";function n(r,e,o,n){r._rollbarWrappedError&&(n[4]||(n[4]=r._rollbarWrappedError),n[5]||(n[5]=r._rollbarWrappedError._rollbarContext),r._rollbarWrappedError=null);var t=e.handleUncaughtException.apply(e,n);o&&o.apply(r,n),"anonymous"===t&&(e.anonymousErrorsPending+=1)}r.exports={captureUncaughtExceptions:function(r,e,o){if(r){var t;if("function"==typeof e._rollbarOldOnError)t=e._rollbarOldOnError;else if(r.onerror){for(t=r.onerror;t._rollbarOldOnError;)t=t._rollbarOldOnError;e._rollbarOldOnError=t}e.handleAnonymousErrors();var a=function(){var o=Array.prototype.slice.call(arguments,0);n(r,e,t,o)};o&&(a._rollbarOldOnError=t),r.onerror=a}},captureUnhandledRejections:function(r,e,o){if(r){"function"==typeof r._rollbarURH&&r._rollbarURH.belongsToShim&&r.removeEventListener("unhandledrejection",r._rollbarURH);var n=function(r){var o,n,t;try{o=r.reason}catch(r){o=void 0}try{n=r.promise}catch(r){n="[unhandledrejection] error getting `promise` from event"}try{t=r.detail,!o&&t&&(o=t.reason,n=t.promise)}catch(r){}o||(o="[unhandledrejection] error getting `reason` from event"),e&&e.handleUnhandledRejection&&e.handleUnhandledRejection(o,n)};n.belongsToShim=o,r._rollbarURH=n,r.addEventListener("unhandledrejection",n)}}}},function(r,e,o){"use strict";function n(r,e,o){if(e.hasOwnProperty&&e.hasOwnProperty("addEventListener")){for(var n=e.addEventListener;n._rollbarOldAdd&&n.belongsToShim;)n=n._rollbarOldAdd;var t=function(e,o,t){n.call(this,e,r.wrap(o),t)};t._rollbarOldAdd=n,t.belongsToShim=o,e.addEventListener=t;for(var a=e.removeEventListener;a._rollbarOldRemove&&a.belongsToShim;)a=a._rollbarOldRemove;var l=function(r,e,o){a.call(this,r,e&&e._rollbar_wrapped||e,o)};l._rollbarOldRemove=a,l.belongsToShim=o,e.removeEventListener=l}}r.exports=function(r,e,o){if(r){var t,a,l="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(t=0;t<l.length;++t)r[a=l[t]]&&r[a].prototype&&n(e,r[a].prototype,o)}}},function(r,e,o){"use strict";function n(r,e){this.impl=r(e,this),this.options=e,function(r){for(var e=function(r){return function(){var e=Array.prototype.slice.call(arguments,0);if(this.impl[r])return this.impl[r].apply(this.impl,e)}},o="log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleAnonymousErrors,handleUnhandledRejection,_createItem,wrap,loadFull,shimId,captureEvent,captureDomContentLoaded,captureLoad".split(","),n=0;n<o.length;n++)r[o[n]]=e(o[n])}(n.prototype)}n.prototype._swapAndProcessMessages=function(r,e){var o,n,t;for(this.impl=r(this.options);o=e.shift();)n=o.method,t=o.args,this[n]&&"function"==typeof this[n]&&("captureDomContentLoaded"===n||"captureLoad"===n?this[n].apply(this,[t[0],o.ts]):this[n].apply(this,t));return this},r.exports=n},function(r,e,o){"use strict";r.exports=function(r){return function(e){if(!e&&!window._rollbarInitialized){for(var o,n,t=(r=r||{}).globalAlias||"Rollbar",a=window.rollbar,l=function(r){return new a(r)},i=0;o=window._rollbarShims[i++];)n||(n=o.handler),o.handler._swapAndProcessMessages(l,o.messages);window[t]=n,window._rollbarInitialized=!0}}}}]);
+  // End Rollbar Snippet
+</script>
+
+
+  <script src="https://cdn.amplitude.com/script/3945771d92522e91b4803f65a3d54289.js"></script>
+  
+  <script>
+    if(!!window.amplitude){
+      window.amplitude.init('3945771d92522e91b4803f65a3d54289', {
+        fetchRemoteConfig: true,
+        autocapture: {
+          elementInteractions: {
+            cssSelectorAllowlist: [
+              '.amp-tracking', 'a', 'button', 'input[type="submit"]',
+            ],
+            actionClickAllowlist: [],
+          }
+        }
+      });
+
+    }
+  </script>
+
+<script type="text/javascript">
+	(function(){
+		var bsa_optimize=document.createElement('script');
+		bsa_optimize.type='text/javascript';
+		bsa_optimize.async=true;
+		bsa_optimize.src='https://cdn4.buysellads.net/pub/askfred.js?'+(new Date()-new Date()%600000);
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa_optimize);
+	})();
+</script>
+  </head>
+
+  <body>
+    <nav class="navbar navbar-expand-xl navbar-light d-flex flex-column w-100" style="flex-grow: 1">
+      <div class="d-flex align-items-center justify-content-between w-100" style="flex-grow: 1">
+        <div class="brand-container d-flex align-items-center justify-content-start">
+          <div class="d-flex align-items-center pl-lg-4">
+            <a href="#" class="offcanvas-toggler d-lg-none btn btn-link"><i class="fas fa-bars fa-lg"></i></a>
+            <a class="brand p-0 d-flex align-items-center" href="/" style="color: #fff !important">
+              <img style="height: 42px; width: 42px; margin-right: 8px" src="/assets/fencing_56-23f90dde65c1355eae0198c4968f4b52c89c232d9b33180d8d8b688c1bb04409.png" /> 
+              <span class="d-none d-sm-inline-block ">
+                  AskFRED
+              </span>
+            </a>
+          </div>
+        </div>
+
+        <div class="d-flex flex-column" style="flex-grow: 1;">
+          <div class="align-items-center justify-content-end pr-5 d-none d-lg-flex" style="height: 30px; background: linear-gradient(270deg, #324A67 0%, rgba(36, 66, 103, 0) 100%);">
+            <div class="d-flex align-items-center sub-menu">
+              <a class="px-3" href="/about">About</a>
+              <a class="px-3" href="https://help.askfred.net/en/articles/8050745-frequently-asked-questions">FAQ</a>
+              <a class="px-3" href="https://help.askfred.net/">Help</a>
+            </div>
+          </div>
+          <div class="d-flex justify-content-lg-between justify-content-end align-items-center pr-3 pr-md-5" style="height: 64px;">
+            <div class="main-menu d-none d-lg-flex w-100 justify-content-center">
+                <a href="/tournaments" class="">Tournaments</a>
+                <a href="/clinics" class="">Camps &amp; Clinics</a>
+                <a href="/results" class="active">Results</a>
+                <a href="/bc/dashboard" class="">Bout Committee</a>
+            </div>
+            <div class="d-flex flex-row">
+                <a href="/login" class="btn btn-sm btn-secondary mr-2 px-3 text-nowrap">Sign In</a>
+                <a href="/signup" class="btn btn-sm btn-outline-secondary px-3">Register</a>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <div class="container-fluid px-0">
+      <div class="d-flex flex-column-reverse flex-xl-row">
+        <div id="sidebar" class="">
+          <ul class="sidebar-nav navbar-nav pt-3">
+            <li class="nav-item ">
+              <a class="nav-link" href="/tournaments">
+                <i class="fa fa-calendar-alt fa-fw"></i> <span>Tournaments</span>
+              </a>  
+            </li>
+            <li class="nav-item active">
+              <a class="nav-link" href="/results">
+                <i class="fa fa-poll-h fa-fw"></i> <span>Results</span>
+              </a>
+            </li>
+
+              <li class="nav-item pl-4 subnav-item">
+                <a class="nav-link" href="/results">Past Tournaments</a>  
+              </li>
+              <li class="nav-item pl-4 subnav-item">
+                <a class="nav-link" href="/results/fencer">Results Search</a>  
+              </li>
+              <li class="nav-item pl-4 subnav-item">
+                <a class="nav-link" href="/leagues">Leagues</a>  
+              </li>
+
+            <li class="nav-item  ">
+              <a class="nav-link" href="/clinics">
+                <i class="fa fa-school fa-fw"></i> <span>Camps &amp; Clinics</span>
+              </a>
+            </li>
+            <li class="nav-item ">
+              <a class="nav-link" href="/bc/dashboard">
+                <i class="fa fa-tools fa-fw"></i> <span>Bout Committee</span>
+              </a>
+            </li>
+
+              <li class="nav-item mt-4">
+                <a class="nav-link" href="/login">
+                  <i class="fa fa-sign-in fa-fw"></i> <span>Sign In</span>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/signup">
+                  <i class="fa fa-user-plus fa-fw"></i> <span>Sign Up</span>
+                </a>
+              </li>
+            <li class="nav-item mt-4">
+              <a class="nav-link" href="https://help.askfred.net/" onclick="Intercom('show'); return false;">
+                <i class="fa fa-question fa-fw"></i> <span>Support</span>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div style="flex: 1; overflow: hidden; ">
+          
+  <div class="container-fluid pb-5 px-0 px-md-2" id="main-content">
+    <div class="pt-2 p-lg-3">
+      <h1 class="mt-3 mb-4 font-weight-bold">
+  Past Tournaments &amp; Results
+</h1>
+
+<div class="card p-4 mb-4">
+  <form id="tournament-search-form">
+    <div class="row mb-0 mb-md-2">
+      <div class="col-12 col-md-3 mb-1 mb-md-0">
+        <select name="weapon" id="weapon" class="form-control"><option value="">All Weapons</option>
+<option value="Foil">Foil</option>
+<option value="Epee">Epee</option>
+<option value="Saber">Saber</option></select>
+      </div>
+      <div class="col-12 col-md-3 mb-1 mb-md-0">
+        <select name="gender" id="gender" class="form-control"><option value="">All Gender Groups</option>
+<option value="Men or Mixed">Men or Mixed</option>
+<option value="Women or Mixed">Women or Mixed</option>
+<option value="Men">Men</option>
+<option value="Women">Women</option>
+<option value="Mixed">Mixed</option></select>
+      </div>
+      <div class="col-12 col-md-3 mb-1 mb-md-0">
+        <select name="age" id="age" class="form-control"><option value="">All Age Categories</option>
+<option value="Youth">Youth</option>
+<option value="Cadet">Cadet</option>
+<option value="Junior">Junior</option>
+<option value="Cadet and Younger">Cadet and Younger</option>
+<option value="Junior and Younger">Junior and Younger</option>
+<option value="Senior">Senior</option>
+<option value="Veteran">Veteran</option>
+<option value="Adult">Adult</option></select>
+      </div>
+      <div class="col-12 col-md-3 mb-1 mb-md-0">
+        <input type="text" name="name" id="name" class="form-control" placeholder="Search by Tournament Name" />
+      </div>
+    </div>
+    <div class="row mb-0 mb-md-2">
+      <div class="col-12 col-md-3 mb-1 mb-md-0">
+        <div class="row">
+          <div class="col-6">
+            <select name="date_by" id="date_by" class="form-control"><option value="on">On date:</option>
+<option value="before">Is before:</option>
+<option value="after">Is after:</option></select>
+          </div>
+          <div class="col-6">
+            <input type="text" name="date" id="date" class="form-control datepicker flex-1" />
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-md-3 mb-1 mb-md-0">
+        <select name="entries_count" id="entries_count" class="form-control"><option value="">All Event Sizes</option>
+<option value="empty">No Participants (0)</option>
+<option value="tiny">Tiny (1-5 fencers)</option>
+<option value="small">Small (6-15 fencers)</option>
+<option value="medium">Medium (16-25 fencers)</option>
+<option value="large">Large (26-63 fencers)</option>
+<option value="xlarge">Extra Large (64+ fencers)</option></select>
+      </div>
+      <div class="col-12 col-md-3 mb-1 mb-md-0">
+        <select name="division_id" id="division_id" class="form-control"><option value="">Any Division</option>
+<option value="29e50e72-3088-4af4-8b17-b6623e7a088c"></option>
+<option value="4bbe6e71-5dd9-4e1d-b793-dada0748a666">Afganistan</option>
+<option value="a2db3280-5967-45db-9a3b-451c786e47dd">Alabama</option>
+<option value="12312ef3-6ed9-43f3-9bd7-d99928433b69">Alaska</option>
+<option value="f87852f3-fa59-4dc6-abdd-05d60ce7bd3c">Algeria</option>
+<option value="0bdbc214-336c-4e46-a69c-04fe7d46a6bb">American Samoa</option>
+<option value="4d5b9e2a-f5b6-49e1-8467-05009c04171c">Andorra</option>
+<option value="feb8e6f9-631f-4b7f-8bd9-a9ef9a1400cc">Angola</option>
+<option value="551fadb2-72e2-4672-a604-50b438a028e2">Argentina</option>
+<option value="45856335-073e-4a33-9482-4e20df15f657">Arizona</option>
+<option value="26105bbc-74ac-4955-84f4-5bf5fbbf1bcf">Ark-La-Miss</option>
+<option value="e7a0e756-cc4d-4441-a433-1ffbd7e7162f">Armenia</option>
+<option value="da562dcb-b871-4de5-9301-cf1d1ca31c5b">Australia</option>
+<option value="747bff86-62a6-45ee-b0ae-e9268cb82757">Austria</option>
+<option value="8cab4412-03c8-40b5-9807-f7bda7954d38">Azerbaijan</option>
+<option value="83d9a518-5a71-4722-816b-9c8e37ee356a">Bangladesh</option>
+<option value="3f954e91-934a-4a5d-b4d0-5998bc36a9f2">Barbados</option>
+<option value="0ee50f00-a62a-40c7-b8fa-6d0d6081e677">Belarus</option>
+<option value="27772f98-9bc5-4d43-a4ce-66a388e398d1">Belgium</option>
+<option value="734629ac-5af0-4545-9ae9-045c8eb49ccb">Bermuda</option>
+<option value="bdeab90c-1977-4610-8ab9-72090f1fabb4">Bolivia</option>
+<option value="40193dd8-dda8-4f7c-aa38-6c3faf6984c5">Border Texas</option>
+<option value="26aa4251-5531-4f1f-aa04-7840b65e0214">Brazil</option>
+<option value="54746f1e-72c5-4077-a8c1-ebc59e5332dd">Bulgaria</option>
+<option value="e53b9f81-d0ff-4b0b-a9ea-9ca3d52f6936">Cambodia</option>
+<option value="60c83726-d43c-4be2-9694-c11e9e9daee3">Cameroon</option>
+<option value="38ba20dc-1d6e-4128-9c75-e27128201d20">Canada</option>
+<option value="bca656c8-0790-4ece-b93f-c6123c410705">Cape Verde</option>
+<option value="b084fa85-7497-430e-931a-692627e5a95d">Capitol</option>
+<option value="a742caee-8765-4f5c-a0cd-bb154522f28d">Cayman Islands</option>
+<option value="1cd39463-a960-4c59-8acb-ec6263d7ef7f">Central California</option>
+<option value="aea66097-0d7c-48b0-aa7c-05580b326b7d">Central Florida</option>
+<option value="5e86f551-5c30-4038-ae74-8e37fbee058e">Central Pennsylvania</option>
+<option value="af478311-2496-400c-ad71-3198c7dddb28">Chile</option>
+<option value="cb6e8d50-8ec3-4158-84ab-3b358c7d5bcc">China</option>
+<option value="66093bcb-46b3-4204-9c0d-b78ff1b31761">Colombia</option>
+<option value="4ee98d4f-cb1f-436c-ba39-0ca4ad20e19a">Colorado</option>
+<option value="a51dcecb-da8f-4369-8428-9b5f8ccbb58e">Columbus</option>
+<option value="a1ffcde5-a45f-45f5-9a68-6d9572fc6a05">Comoros</option>
+<option value="801b7cb9-2cc7-479a-ab49-2ed435644a0b">Connecticut</option>
+<option value="567f217e-861a-41e6-8fa0-067b7af68a91">Costa Rica</option>
+<option value="fad3328f-8c52-445b-803c-833d849d14e9">Cote dIvoire</option>
+<option value="2ddf6db3-b964-44c1-937e-b1e45e822cf1">Croatia</option>
+<option value="ae7f40a6-fb65-4f43-9a32-1205f201f226">Cuba</option>
+<option value="daa2c145-e0c9-4f4c-a650-3f80be06bbca">Czech Republic</option>
+<option value="7fd7a917-1676-49f4-84ac-efbc4d43d162">Denmark</option>
+<option value="2488dc29-8903-4dac-b064-550a073f122c">Djibouti</option>
+<option value="870f82c9-15fb-4ded-b3ca-ad0e233627ef">Dominica</option>
+<option value="9f9c86a6-52dd-4eac-9ca8-48313c5d0126">Dominican Republic</option>
+<option value="74dea275-48eb-4019-97fb-b39e1390dffb">Ecuador</option>
+<option value="6ba324be-c060-45dc-810d-df0af0348f72">Egypt</option>
+<option value="6a2bf084-89fa-45f1-a3b7-176e4fe216cd">El Salvador</option>
+<option value="d524fce2-8fa5-4b67-9971-96f4df86519c">Estonia</option>
+<option value="65a683f2-72f7-44b1-a24b-f3db3ecd5508">Fiji</option>
+<option value="cb04e53d-e708-4017-b305-db088594f308">Finland</option>
+<option value="ea1f6a53-5783-42a9-92f9-dbcf7b4383db">Foreign</option>
+<option value="a6eac088-41e4-4818-a341-8af40b7ad2cf">France</option>
+<option value="c6e04b69-76f7-4c35-819c-37046487a23b">Gateway Florida</option>
+<option value="a4c83c67-f9f2-4108-b794-53c2b111dd1f">Georgia</option>
+<option value="913844ff-fd02-482d-90a8-19582f9902c9">Germany</option>
+<option value="948c34c4-8c1a-4fbd-968a-fa854b625810">Ghana</option>
+<option value="41413ece-05e9-438f-8d9d-3ec8cb6c5c93">Gold Coast Florida</option>
+<option value="526e96d7-cb8e-46c0-84e0-6f4c07ecdf02">Greece</option>
+<option value="da57a34a-10cc-4fdd-966a-83105979cc6a">Green Mountain</option>
+<option value="3803a4d0-e045-4730-9d03-29c1907439c1">Guam</option>
+<option value="3dbdbde9-9109-40fb-85f8-87cd3951a265">Guatemala</option>
+<option value="d9517a9d-f1f7-4ff3-b96f-7453dd959c22">Gulf Coast</option>
+<option value="3278414e-d6b1-4bf6-910d-83f0123b5ebf">Guyana</option>
+<option value="c2292f1a-89a1-4716-a9bd-c20319d5c566">Harrisburg</option>
+<option value="f604a3c4-7387-49ae-863e-71d971fa2c3d">Hawaii</option>
+<option value="e2b43056-b153-4b9b-9b18-19fbb5d46e99">Honduras</option>
+<option value="0b010682-f0c4-423e-83ff-db78928e7b76">Hong Kong</option>
+<option value="7e2a9bd8-170b-4543-be4a-f367943c82d4">Hudson-Berkshire</option>
+<option value="cb052983-fb8d-4a6f-b92b-02b7b72a97ba">Hungary</option>
+<option value="1b349a9e-c01e-44c7-a9ed-361ecb49f904">Iceland</option>
+<option value="f07f2d34-1748-431e-bd47-3e13dd2ae3a1">Illinois</option>
+<option value="d3ae69e2-fd56-4619-a4e4-6bae6bf4d33f">India</option>
+<option value="1cf74a6d-1db7-4edb-b875-c0a89c3e283c">Indiana</option>
+<option value="264f2b3f-7df7-43e4-870f-fcffa606365e">Indonesia</option>
+<option value="9cc89164-f493-46ca-acda-0ee8e91ccdf8">Inland Empire</option>
+<option value="b82dcd29-6d64-4a9d-b6e7-f8b9f7e2c2cd">Iowa</option>
+<option value="d06ec5cd-5bbd-4975-9516-1ddf953cad9e">Iran</option>
+<option value="c2b48f23-36e4-4084-a194-66ab210ceb91">Ireland</option>
+<option value="5e3cce21-4189-4d09-8cc8-fb9b9c141814">Israel</option>
+<option value="80768f92-4f7b-428a-a1e5-af3e2645ba8e">Italy</option>
+<option value="eb194752-419e-47d0-ba5b-e8c6037963b9">Jamaica</option>
+<option value="0374f888-57b8-44c8-ba99-4a17d316e5c8">Japan</option>
+<option value="9920f0bd-0717-4d2b-b663-9d6632145ba6">Jordan</option>
+<option value="b12b2e55-deb8-4ebb-bac7-3bee42115f33">Kansas</option>
+<option value="19e42bc1-629a-4615-9569-ab05cdd76e2e">Kazakhstan</option>
+<option value="5609f0cc-a909-4f0a-97b2-aa99a26325c8">Kentucky</option>
+<option value="8f157774-5c9b-4959-981a-ff67316fe40a">Kuwait</option>
+<option value="2fccf6e5-c7c1-4a37-a9d9-82a56cf17773">Kyrgyzstan</option>
+<option value="3749001f-d91f-4462-b4c7-a950f0c566ee">Latvia</option>
+<option value="905d5701-4928-42d4-af1e-ff1c903d307b">Lebanon</option>
+<option value="caaf54ec-7459-4b1e-89c5-436566f51c2c">Libya</option>
+<option value="ee171185-858a-4abd-ab68-c2df22109d88">Lithuania</option>
+<option value="3b72f531-53bd-45cf-9eff-c20202abf02e">Long Island</option>
+<option value="dfaf9701-8ddb-421a-aa48-c05a60822893">Louisiana</option>
+<option value="584ae3fc-3a61-41e9-8c5b-aa3137f4d947">Macedonia</option>
+<option value="077215d8-8897-472f-8bf5-c86375d860ca">Malaysia</option>
+<option value="1c057b90-f10d-4518-8f71-1cc7f06a5918">Mali</option>
+<option value="0935b1db-a8f7-4a7a-94bd-b41bb9e31d7f">Marshall Islands</option>
+<option value="858eac88-4605-42af-abcb-024896c4ce2c">Maryland</option>
+<option value="f0a46fa2-26e5-42e8-ba2c-ea5084302d9f">Mauritius</option>
+<option value="bf80058c-ee2c-4263-99f4-51bf7bb602d6">Metropolitan NYC</option>
+<option value="b390276f-e6e2-41fd-b0cd-75c454046b61">Mexico</option>
+<option value="192a0f30-0a83-48c4-ba9a-b802668b932e">Michigan</option>
+<option value="25ae0ebc-8c78-4915-9fc4-d162f37aa8ea">Minnesota</option>
+<option value="36848966-2a95-4724-ab30-0c35fc273464">Monaco</option>
+<option value="183855fe-9a32-4d53-9a97-89fefb2761f9">Mongolia</option>
+<option value="7bfd1c25-04cf-489f-8f60-f123679f2b68">Morocco</option>
+<option value="eb830c52-07e4-4235-9a0c-6aad8a6977ea">Mountain Valley</option>
+<option value="34487a3a-342d-4ce4-94ec-6b09a4776147">Myanmar (Burma)</option>
+<option value="ccdc9778-1d7c-4dd7-8c77-b866aa4fd740">National</option>
+<option value="e4d67e6a-d36b-4a15-a024-ddb612168831">Nebraska-South Dakota</option>
+<option value="34a9d417-931f-48c1-a515-2f07d0e411c8">Nepal</option>
+<option value="a7d015f3-b732-48b5-a660-d39a1ec8aff4">Netherlands</option>
+<option value="b7d1ef3a-a1e4-4446-bb45-cd7bc82f61e6">Netherlands Antilles</option>
+<option value="21d4ca24-6fae-403f-ad22-0bee4e03cdfd">Nevada</option>
+<option value="3507caff-0f1d-43d8-88d7-cfd105e4cc2d">New England</option>
+<option value="e86bb0a7-d4f6-40e6-ba7d-4462cf582f77">New Jersey</option>
+<option value="0d41c008-e379-42ed-bebf-e6193eac57e7">New Mexico</option>
+<option value="221c17d0-fb77-4f5e-b292-0a32356c4703">New Zealand</option>
+<option value="9961e869-251a-4385-826b-1583e5b12f32">Nicaragua</option>
+<option value="bb9a95bf-5bdd-4b44-bc5c-759f6c863aa9">Niger</option>
+<option value="5b88f0ed-825c-41a1-bf6a-e8340a50f8ee">Nigeria</option>
+<option value="7bebed2c-7a70-453a-a8c9-42135d50932e">North Carolina</option>
+<option value="f4b0145c-4f61-41df-8a95-35147f8a6276">North Coast</option>
+<option value="500d21c0-7f04-4e78-a78d-422d4fc39e32">Northeast</option>
+<option value="d2ebcb4e-30b8-467b-8e3f-1c02a5c58ded">Northeast Pennsylvania</option>
+<option value="add9ed27-0188-4462-bc7a-6f3dfccfe674">Northern California</option>
+<option value="922283c6-32c3-4bc8-9e15-988e3ae6b35a">Northern Ohio</option>
+<option value="1a775755-4371-42d5-8a08-f66740e111e2">North Texas</option>
+<option value="8e839523-df3f-417a-9673-1e8ca3051d6d">Norway</option>
+<option value="a420460a-573f-40eb-b735-5ba90e5f77d4">Oklahoma</option>
+<option value="50acaac1-0c9a-48b5-b991-3596167d8488">Orange Coast</option>
+<option value="2c11a945-2c23-47cf-a128-0bf3fea0c4f9">Oregon</option>
+<option value="5fea9da4-cafc-4bcd-8840-75ec3d4fa313">Pakistan</option>
+<option value="668beb53-741b-495d-ac33-3585fe6e0219">Palau</option>
+<option value="4683f79e-568a-4670-bfa9-a2a3f3b600d1">Palestine</option>
+<option value="c56c561a-4a23-4bd5-8aec-c8e50df2bd53">Panama</option>
+<option value="48cc9728-c0a4-4ed0-86b5-b5b9187ceb3c">Paraguay</option>
+<option value="888f67bb-8701-488d-ba92-d22fee536acc">Peru</option>
+<option value="324937b2-4fd8-4ab9-a736-4e27eb24620b">Philadelphia</option>
+<option value="fda8bb58-e36e-4381-b176-fcc389be572f">Philippines</option>
+<option value="2fd984ac-a23f-41fa-b503-a81f588af9de">Plains Texas</option>
+<option value="abd7af33-6376-4893-a929-f936f7917e0a">Poland</option>
+<option value="9130c303-9353-4c87-a3a2-5e9c24315601">Portugal</option>
+<option value="ea3ca66c-afde-4fdb-be94-4ea3c3840bc3">Puerto Rico</option>
+<option value="fdc623b2-8c25-405b-a78d-55adf5c8625a">Qatar</option>
+<option value="7005cbe6-78d2-45aa-972c-e4c6ad719000">Republic of Georgia</option>
+<option value="373463ea-4177-4085-80f0-47ec3a39c1e8">Romania</option>
+<option value="a16baf6b-2187-4546-ae0d-76ff89061d4c">Russia</option>
+<option value="84c75268-dadc-4201-bcc9-f562a6cc6c18">Rwanda</option>
+<option value="f84bffd2-47e2-4817-88f9-f60b840648f4">San Bernardino</option>
+<option value="3c3194d2-6468-44d5-a7ca-56cc869a2d07">San Diego</option>
+<option value="de5fd522-9723-4f95-ae10-d66b7f826327">Saudi Arabia</option>
+<option value="63e6d592-a26a-4cb5-af5e-eeeea659a0ad">Senegal</option>
+<option value="b08447c1-0073-4445-bd03-2b2e9926fc43">Serbia</option>
+<option value="fd87a477-3d1a-484b-b368-4d838bf9af13">Sierra Leone</option>
+<option value="68538688-fa6b-480b-aab3-5e94e31b5fb1">Singapore</option>
+<option value="90f4bec7-ea35-4e8b-bf90-401403c4c7ac">Slovakia</option>
+<option value="3b56da1d-b424-4529-b31b-fdc933496c27">South Africa</option>
+<option value="c37347f2-7a28-4469-86e1-c76d8c73d94b">South Carolina</option>
+<option value="b89302ef-9d5b-42b7-9083-8f9f88f01d6a">Southern California</option>
+<option value="d20de3b4-8835-49b8-a191-b0cf63ce4c60">South Jersey</option>
+<option value="58165810-c444-4400-bcf7-8c4a7105a991">South Korea</option>
+<option value="9a27d41b-d7e7-4992-8cd1-32b9fad87f65">South Texas</option>
+<option value="beae3cb2-9c57-4ecf-bbc4-76234c72da93">Southwest Ohio</option>
+<option value="9da999b5-6987-4e52-a486-fb5d80f09403">Spain</option>
+<option value="d0da902d-8986-4b5d-b96c-f884d3c92691">Sri Lanka</option>
+<option value="6f4948f6-9610-43d4-ba97-46a6b2e66c91">St. Louis</option>
+<option value="78779795-312f-4d1c-8e4d-8de3dfbd4d71">Sweden</option>
+<option value="d6db648a-62ee-4147-a347-a4966b1e29d0">Switzerland</option>
+<option value="ec0a43f5-08cd-40bc-b73f-d0130511633b">Taiwan (Chinese Taipei)</option>
+<option value="77f6d66f-c7f3-4fbe-b9a1-b14915ca014a">Tanzania</option>
+<option value="fbc2d95f-93e1-4616-af30-c04aeb97c01f">Tennessee</option>
+<option value="5f42b6ab-eff0-4ebe-91e3-1acac1326872">Thailand</option>
+<option value="4a12086c-9691-4ecb-9372-1f65b0ab92fd">Tunisia</option>
+<option value="9b4f7193-406a-4226-a560-83f45ccbac48">Turkey</option>
+<option value="e2aa1a5f-87ae-480c-94c9-85a24ceb2667">UK(Great Britain)</option>
+<option value="989e464a-9a46-471b-9546-236c259f7c5d">Ukraine</option>
+<option value="84e8d50f-82a8-4c26-8eda-617a38651657">United Arab Emirates</option>
+<option value="545ea611-787e-44c6-bf24-ad87b3df73e9">Uruguay</option>
+<option value="4457549b-6ba8-4c55-ad4f-bc674f2c3171">Utah-Southern Idaho</option>
+<option value="d73863f1-232a-4bef-bc8f-dc79945e3e11">Uzbekistan</option>
+<option value="a57de6ee-869d-4080-86f5-8f8d4505d33f">Venezuela</option>
+<option value="5f581bec-ffa0-4d31-a350-43079f348b39">Vietnam</option>
+<option value="14ad1839-1903-4561-9c2c-a357fb713c75">Virginia</option>
+<option value="0e28c80e-1fac-4e1d-8721-85186cd65edf">Virgin Islands</option>
+<option value="da4b5ecd-1500-4ae3-add8-613e3d368c3c">Westchester-Rockland</option>
+<option value="5ccaa653-88b5-4fcf-a7ea-dcdc1eafb12d">Western New York</option>
+<option value="0deb78d6-7187-42ee-92eb-b735c70bd804">Western Pennsylvania</option>
+<option value="6111633c-e983-4d02-94d1-c12523350b73">Western Washington</option>
+<option value="d2e7d56a-891e-4f8b-a2d2-a423a152a0ee">Wisconsin</option>
+<option value="959c1dd6-8211-4a44-aebe-9d39f24580bf">Wyoming</option>
+<option value="1da4d7f1-d047-4b55-a457-55a9a5d457e6">Yemen</option>
+<option value="a06f9ee4-8cbe-4f1b-8dc9-3cb122c05bb5">Zimbabwe</option>
+<option value="181714a6-c394-4ca2-b46a-590a8a687dc7"></option>
+<option value="6d9cb07d-ff70-4699-8609-29b3ecb5612b"></option>
+<option value="62fdccaf-06f4-40e3-b622-15dea94d0260"></option>
+<option value="fe713c65-5851-469d-a3c8-3c91a9b0bba3"></option>
+<option value="fad3ecad-a807-4686-b79d-945edce523b2"></option>
+<option value="4b06be52-8b20-4324-976d-4934d572ac26"></option></select>
+      </div>
+      <div class="col-12 col-sm-6 col-lg-3 mb-1 mb-md-0 input-group">
+        <input type="text" name="location" id="location" class="form-control" placeholder="Location (city, zip, etc)" />
+        <div class="input-group-append" style="max-width: 110px;">
+          <select name="radius" id="radius" class="form-control"><option value="">No Limit</option>
+<option value="5">&lt; 5 miles</option>
+<option value="10">&lt; 10mi</option>
+<option value="20">&lt; 20mi</option>
+<option value="50">&lt; 50mi</option>
+<option value="100">&lt; 100mi</option>
+<option value="300">&lt; 300mi</option>
+<option value="500">&lt; 500mi</option></select>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <authority-filter is-results="true" class="col-12 col-lg-9 col-sm-8 mb-2"></authority-filter>
+      <div class="col-12 col-sm-3 mb-1 mb-md-0">
+        <div class="mt-2 d-flex flex-column flex-md-row flex-1 w-100 justify-content-end">
+          <div>
+            <button class="btn btn-primary" type="submit">Find Tournaments</button>
+            <button class="btn btn-secondary" type="submit" name="reset" value="reset">Reset</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+      <div class="row">
+        <div class="col-12 col-sm-6 col-lg-3 mb-0">
+          <label class="text-nowrap mb-0">
+            <input type="checkbox" name="has_results" id="has_results" value="1" /> Has Results?
+          </label>
+        </div>
+      </div>
+
+  </form>
+</div>
+
+<div class="d-flex align-items-center justify-content-between flex-column flex-sm-row mb-3">
+  <div>1 of 1840 pages sorted by date</div>
+  <div><nav class="">
+  <ul class="pagination ">
+    
+    
+        <li class="page-item active">
+  <a class="page-link" href="/results">1</a>
+</li>
+
+        <li class="page-item">
+  <a class="page-link" rel="next" href="/results?page=2">2</a>
+</li>
+
+        <li class="page-item">
+  <a class="page-link" href="/results?page=3">3</a>
+</li>
+
+        <li class="page-item">
+  <a class="page-link" href="/results?page=4">4</a>
+</li>
+
+        <li class="page-item">
+  <a class="page-link" href="/results?page=5">5</a>
+</li>
+
+        <li class="page-item disabled"><a href="#" onclick="return false;" class="page-link">&hellip;</a></li>
+    <li class="page-item">
+  <a class="page-link" rel="next" href="/results?page=2">Next &rsaquo;</a>
+</li>
+
+    <li class="page-item">
+  <a class="page-link" href="/results?page=1840">Last &raquo;</a>
+</li>
+
+  </ul>
+</nav>
+</div>
+</div>
+
+<div class="card">
+  <table class="table table-sm full-width results-list">
+      <tr>
+        <td class="text-nowrap">
+          <a href="/tournaments/b98840d9-add7-4dae-b348-cac9b0b76795"><i class="fas fa-fw fa-info" data-toggle="tooltip" data-placement="top" title="More Info"></i></a>
+          <a href="/tournaments/b98840d9-add7-4dae-b348-cac9b0b76795/conversation"><i class="far fa-fw fa-envelope" data-toggle="tooltip" data-placement="top" title="Message Organizers"></i></a>
+        </td>
+        <td>
+            <a href="/tournaments/b98840d9-add7-4dae-b348-cac9b0b76795/results">CFC Junior Unrated Foil (MD Division only)</a>
+        </td>
+        <td class="text-nowrap">
+          Towson, MD
+        </td>
+        <td class="text-nowrap">
+          31 Aug
+        </td>
+      </tr>
+      <tr>
+        <td class="text-nowrap">
+          <a href="/tournaments/4a5d1296-36f9-409e-ad0c-9c525748cb9b"><i class="fas fa-fw fa-info" data-toggle="tooltip" data-placement="top" title="More Info"></i></a>
+          <a href="/tournaments/4a5d1296-36f9-409e-ad0c-9c525748cb9b/conversation"><i class="far fa-fw fa-envelope" data-toggle="tooltip" data-placement="top" title="Message Organizers"></i></a>
+        </td>
+        <td>
+            <span style="opacity: 0.8; cursor: not-allowed" data-toggle="tooltip" data-placement="top" title="No Results Yet!">Foil RFC Challenge</span>
+        </td>
+        <td class="text-nowrap">
+          Rochester, NY
+        </td>
+        <td class="text-nowrap">
+          31 Aug
+        </td>
+      </tr>
+      <tr>
+        <td class="text-nowrap">
+          <a href="/tournaments/9103483f-bda6-436a-96e6-e5bdc85019dc"><i class="fas fa-fw fa-info" data-toggle="tooltip" data-placement="top" title="More Info"></i></a>
+          <a href="/tournaments/9103483f-bda6-436a-96e6-e5bdc85019dc/conversation"><i class="far fa-fw fa-envelope" data-toggle="tooltip" data-placement="top" title="Message Organizers"></i></a>
+        </td>
+        <td>
+            <span style="opacity: 0.8; cursor: not-allowed" data-toggle="tooltip" data-placement="top" title="No Results Yet!">Future Stars Senior Foil Fall Cup #1</span>
+        </td>
+        <td class="text-nowrap">
+          
+        </td>
+        <td class="text-nowrap">
+          31 Aug
+        </td>
+      </tr>
+      <tr>
+        <td class="text-nowrap">
+          <a href="/tournaments/9ea06d87-4357-4cea-b956-fe015d361e4d"><i class="fas fa-fw fa-info" data-toggle="tooltip" data-placement="top" title="More Info"></i></a>
+          <a href="/tournaments/9ea06d87-4357-4cea-b956-fe015d361e4d/conversation"><i class="far fa-fw fa-envelope" data-toggle="tooltip" data-placement="top" title="Message Organizers"></i></a>
+        </td>
+        <td>
+            <a href="/tournaments/9ea06d87-4357-4cea-b956-fe015d361e4d/results">MoDuel C &amp; Under + Adult (21+) Open Epee</a>
+        </td>
+        <td class="text-nowrap">
+          Elkton, MD
+        </td>
+        <td class="text-nowrap">
+          31 Aug
+        </td>
+      </tr>
+      <tr>
+        <td class="text-nowrap">
+          <a href="/tournaments/e3c4f98e-8d06-4c6b-8a3a-d4dd7cc272db"><i class="fas fa-fw fa-info" data-toggle="tooltip" data-placement="top" title="More Info"></i></a>
+          <a href="/tournaments/e3c4f98e-8d06-4c6b-8a3a-d4dd7cc272db/conversation"><i class="far fa-fw fa-envelope" data-toggle="tooltip" data-placement="top" title="Message Organizers"></i></a>
+        </td>
+        <td>
+            <a href="/tournaments/e3c4f98e-8d06-4c6b-8a3a-d4dd7cc272db/results">MFA Y8, Y10, Y12, Div2 - All foil mixed events</a>
+        </td>
+        <td class="text-nowrap">
+          San Rafael, CA
+        </td>
+        <td class="text-nowrap">
+          31 Aug
+        </td>
+      </tr>
+      <tr>
+        <td class="text-nowrap">
+          <a href="/tournaments/71d61ed1-b2b3-4d7c-9f3f-60a5765bb920"><i class="fas fa-fw fa-info" data-toggle="tooltip" data-placement="top" title="More Info"></i></a>
+          <a href="/tournaments/71d61ed1-b2b3-4d7c-9f3f-60a5765bb920/conversation"><i class="far fa-fw fa-envelope" data-toggle="tooltip" data-placement="top" title="Message Organizers"></i></a>
+        </td>
+        <td>
+            <span style="opacity: 0.8; cursor: not-allowed" data-toggle="tooltip" data-placement="top" title="No Results Yet!">Fortune ROC/RJCC/RYC</span>
+        </td>
+        <td class="text-nowrap">
+          Ontario, California
+        </td>
+        <td class="text-nowrap">
+          30 Aug - 01 Sep
+        </td>
+      </tr>
+      <tr>
+        <td class="text-nowrap">
+          <a href="/tournaments/b48f745b-b619-4757-9999-d61f6e7e5ba0"><i class="fas fa-fw fa-info" data-toggle="tooltip" data-placement="top" title="More Info"></i></a>
+          <a href="/tournaments/b48f745b-b619-4757-9999-d61f6e7e5ba0/conversation"><i class="far fa-fw fa-envelope" data-toggle="tooltip" data-placement="top" title="Message Organizers"></i></a>
+        </td>
+        <td>
+            <a href="/tournaments/b48f745b-b619-4757-9999-d61f6e7e5ba0/results">Renard Cup #1: Vulpecula</a>
+        </td>
+        <td class="text-nowrap">
+          Indianapolis, IN
+        </td>
+        <td class="text-nowrap">
+          30 Aug
+        </td>
+      </tr>
+      <tr>
+        <td class="text-nowrap">
+          <a href="/tournaments/2f7ed818-12f6-412a-a3ad-49f63c2cacfe"><i class="fas fa-fw fa-info" data-toggle="tooltip" data-placement="top" title="More Info"></i></a>
+          <a href="/tournaments/2f7ed818-12f6-412a-a3ad-49f63c2cacfe/conversation"><i class="far fa-fw fa-envelope" data-toggle="tooltip" data-placement="top" title="Message Organizers"></i></a>
+        </td>
+        <td>
+            <a href="/tournaments/2f7ed818-12f6-412a-a3ad-49f63c2cacfe/results">Battle At The Beach ROC/RJCC</a>
+        </td>
+        <td class="text-nowrap">
+          Jacksonville, Florida
+        </td>
+        <td class="text-nowrap">
+          30 Aug - 31 Aug
+        </td>
+      </tr>
+      <tr>
+        <td class="text-nowrap">
+          <a href="/tournaments/04f40bd4-13ee-49fd-830c-587dbaa5fc64"><i class="fas fa-fw fa-info" data-toggle="tooltip" data-placement="top" title="More Info"></i></a>
+          <a href="/tournaments/04f40bd4-13ee-49fd-830c-587dbaa5fc64/conversation"><i class="far fa-fw fa-envelope" data-toggle="tooltip" data-placement="top" title="Message Organizers"></i></a>
+        </td>
+        <td>
+            <span style="opacity: 0.8; cursor: not-allowed" data-toggle="tooltip" data-placement="top" title="No Results Yet!">North Texas Roundup SYC/RJCC</span>
+        </td>
+        <td class="text-nowrap">
+          Dallas, Texas
+        </td>
+        <td class="text-nowrap">
+          30 Aug - 01 Sep
+        </td>
+      </tr>
+      <tr>
+        <td class="text-nowrap">
+          <a href="/tournaments/473caba7-1723-4897-90b9-e631f4e81774"><i class="fas fa-fw fa-info" data-toggle="tooltip" data-placement="top" title="More Info"></i></a>
+          <a href="/tournaments/473caba7-1723-4897-90b9-e631f4e81774/conversation"><i class="far fa-fw fa-envelope" data-toggle="tooltip" data-placement="top" title="Message Organizers"></i></a>
+        </td>
+        <td>
+            <span style="opacity: 0.8; cursor: not-allowed" data-toggle="tooltip" data-placement="top" title="No Results Yet!">Fates Fencing Open Foil Mixed &amp; Women&#39;s</span>
+        </td>
+        <td class="text-nowrap">
+          Coplay, PA
+        </td>
+        <td class="text-nowrap">
+          30 Aug
+        </td>
+      </tr>
+      <tr>
+        <td class="text-nowrap">
+          <a href="/tournaments/acadb921-c5e3-487a-9fd1-674493f0f36d"><i class="fas fa-fw fa-info" data-toggle="tooltip" data-placement="top" title="More Info"></i></a>
+          <a href="/tournaments/acadb921-c5e3-487a-9fd1-674493f0f36d/conversation"><i class="far fa-fw fa-envelope" data-toggle="tooltip" data-placement="top" title="Message Organizers"></i></a>
+        </td>
+        <td>
+            <a href="/tournaments/acadb921-c5e3-487a-9fd1-674493f0f36d/results">CFC Foil Open</a>
+        </td>
+        <td class="text-nowrap">
+          Towson, MD
+        </td>
+        <td class="text-nowrap">
+          30 Aug
+        </td>
+      </tr>
+      <tr>
+        <td class="text-nowrap">
+          <a href="/tournaments/96221b35-7213-4bd6-857f-bdf72086ef84"><i class="fas fa-fw fa-info" data-toggle="tooltip" data-placement="top" title="More Info"></i></a>
+          <a href="/tournaments/96221b35-7213-4bd6-857f-bdf72086ef84/conversation"><i class="far fa-fw fa-envelope" data-toggle="tooltip" data-placement="top" title="Message Organizers"></i></a>
+        </td>
+        <td>
+            <a href="/tournaments/96221b35-7213-4bd6-857f-bdf72086ef84/results">AAFA:  82nd Open (Unsanctioned)</a>
+        </td>
+        <td class="text-nowrap">
+          Fayetteville, NC
+        </td>
+        <td class="text-nowrap">
+          30 Aug
+        </td>
+      </tr>
+      <tr>
+        <td class="text-nowrap">
+          <a href="/tournaments/d94722be-a2a1-4bb8-b97b-cb5223ddb5fe"><i class="fas fa-fw fa-info" data-toggle="tooltip" data-placement="top" title="More Info"></i></a>
+          <a href="/tournaments/d94722be-a2a1-4bb8-b97b-cb5223ddb5fe/conversation"><i class="far fa-fw fa-envelope" data-toggle="tooltip" data-placement="top" title="Message Organizers"></i></a>
+        </td>
+        <td>
+            <span style="opacity: 0.8; cursor: not-allowed" data-toggle="tooltip" data-placement="top" title="No Results Yet!">Road to Valhalla Grand Prix Week 21 of 21</span>
+        </td>
+        <td class="text-nowrap">
+          Oklahoma City, OK
+        </td>
+        <td class="text-nowrap">
+          30 Aug
+        </td>
+      </tr>
+      <tr>
+        <td class="text-nowrap">
+          <a href="/tournaments/bdac0924-4eb6-4b41-a634-d406e5d7a702"><i class="fas fa-fw fa-info" data-toggle="tooltip" data-placement="top" title="More Info"></i></a>
+          <a href="/tournaments/bdac0924-4eb6-4b41-a634-d406e5d7a702/conversation"><i class="far fa-fw fa-envelope" data-toggle="tooltip" data-placement="top" title="Message Organizers"></i></a>
+        </td>
+        <td>
+            <span style="opacity: 0.8; cursor: not-allowed" data-toggle="tooltip" data-placement="top" title="No Results Yet!">Fence For Shoes!</span>
+        </td>
+        <td class="text-nowrap">
+          East Northport, NY
+        </td>
+        <td class="text-nowrap">
+          30 Aug
+        </td>
+      </tr>
+      <tr>
+        <td class="text-nowrap">
+          <a href="/tournaments/806d5b4c-9ed6-42fe-a8b2-257521648eba"><i class="fas fa-fw fa-info" data-toggle="tooltip" data-placement="top" title="More Info"></i></a>
+          <a href="/tournaments/806d5b4c-9ed6-42fe-a8b2-257521648eba/conversation"><i class="far fa-fw fa-envelope" data-toggle="tooltip" data-placement="top" title="Message Organizers"></i></a>
+        </td>
+        <td>
+            <span style="opacity: 0.8; cursor: not-allowed" data-toggle="tooltip" data-placement="top" title="No Results Yet!">&#39;25 Summer Ender (Queens Fencing Club Open foil/epee/saber)</span>
+        </td>
+        <td class="text-nowrap">
+          Queens, NY
+        </td>
+        <td class="text-nowrap">
+          30 Aug
+        </td>
+      </tr>
+      <tr>
+        <td class="text-nowrap">
+          <a href="/tournaments/69a75f53-0a4d-4ccc-a8e6-b06413b4f6d6"><i class="fas fa-fw fa-info" data-toggle="tooltip" data-placement="top" title="More Info"></i></a>
+          <a href="/tournaments/69a75f53-0a4d-4ccc-a8e6-b06413b4f6d6/conversation"><i class="far fa-fw fa-envelope" data-toggle="tooltip" data-placement="top" title="Message Organizers"></i></a>
+        </td>
+        <td>
+            <span style="opacity: 0.8; cursor: not-allowed" data-toggle="tooltip" data-placement="top" title="No Results Yet!">Utah/Southern Idaho and Friends Saber League August</span>
+        </td>
+        <td class="text-nowrap">
+          South Salt Lake, UT
+        </td>
+        <td class="text-nowrap">
+          30 Aug
+        </td>
+      </tr>
+      <tr>
+        <td class="text-nowrap">
+          <a href="/tournaments/0d690ca4-39f2-4dd1-b115-8ceb4121046e"><i class="fas fa-fw fa-info" data-toggle="tooltip" data-placement="top" title="More Info"></i></a>
+          <a href="/tournaments/0d690ca4-39f2-4dd1-b115-8ceb4121046e/conversation"><i class="far fa-fw fa-envelope" data-toggle="tooltip" data-placement="top" title="Message Organizers"></i></a>
+        </td>
+        <td>
+            <a href="/tournaments/0d690ca4-39f2-4dd1-b115-8ceb4121046e/results">August Friday Night Fencing</a>
+        </td>
+        <td class="text-nowrap">
+          Noblesville, IN
+        </td>
+        <td class="text-nowrap">
+          29 Aug
+        </td>
+      </tr>
+      <tr>
+        <td class="text-nowrap">
+          <a href="/tournaments/c6c2ed95-a84b-44a3-870e-d88c3cc92eb7"><i class="fas fa-fw fa-info" data-toggle="tooltip" data-placement="top" title="More Info"></i></a>
+          <a href="/tournaments/c6c2ed95-a84b-44a3-870e-d88c3cc92eb7/conversation"><i class="far fa-fw fa-envelope" data-toggle="tooltip" data-placement="top" title="Message Organizers"></i></a>
+        </td>
+        <td>
+            <span style="opacity: 0.8; cursor: not-allowed" data-toggle="tooltip" data-placement="top" title="No Results Yet!">BB-FC&#39;s Weekend of Veteran Epee Fencing</span>
+        </td>
+        <td class="text-nowrap">
+          Las Vegas, NV
+        </td>
+        <td class="text-nowrap">
+          29 Aug - 01 Sep
+        </td>
+      </tr>
+      <tr>
+        <td class="text-nowrap">
+          <a href="/tournaments/0e8efd4f-a195-4fa7-8883-4da374da73dc"><i class="fas fa-fw fa-info" data-toggle="tooltip" data-placement="top" title="More Info"></i></a>
+          <a href="/tournaments/0e8efd4f-a195-4fa7-8883-4da374da73dc/conversation"><i class="far fa-fw fa-envelope" data-toggle="tooltip" data-placement="top" title="Message Organizers"></i></a>
+        </td>
+        <td>
+            <span style="opacity: 0.8; cursor: not-allowed" data-toggle="tooltip" data-placement="top" title="No Results Yet!">WL Beginner Club (Private)</span>
+        </td>
+        <td class="text-nowrap">
+          West Lafayette, IN
+        </td>
+        <td class="text-nowrap">
+          28 Aug
+        </td>
+      </tr>
+      <tr>
+        <td class="text-nowrap">
+          <a href="/tournaments/1c3c2290-8dbf-4c4a-836d-e8afba7219e4"><i class="fas fa-fw fa-info" data-toggle="tooltip" data-placement="top" title="More Info"></i></a>
+          <a href="/tournaments/1c3c2290-8dbf-4c4a-836d-e8afba7219e4/conversation"><i class="far fa-fw fa-envelope" data-toggle="tooltip" data-placement="top" title="Message Organizers"></i></a>
+        </td>
+        <td>
+            <a href="/tournaments/1c3c2290-8dbf-4c4a-836d-e8afba7219e4/results">Bozeman 20245-26 #1</a>
+        </td>
+        <td class="text-nowrap">
+          Bozeman, MT
+        </td>
+        <td class="text-nowrap">
+          28 Aug
+        </td>
+      </tr>
+      <tr>
+        <td class="text-nowrap">
+          <a href="/tournaments/30cbdf01-ee2a-4be0-9b52-2f342b0a0dec"><i class="fas fa-fw fa-info" data-toggle="tooltip" data-placement="top" title="More Info"></i></a>
+          <a href="/tournaments/30cbdf01-ee2a-4be0-9b52-2f342b0a0dec/conversation"><i class="far fa-fw fa-envelope" data-toggle="tooltip" data-placement="top" title="Message Organizers"></i></a>
+        </td>
+        <td>
+            <a href="/tournaments/30cbdf01-ee2a-4be0-9b52-2f342b0a0dec/results">Weeknight Epee</a>
+        </td>
+        <td class="text-nowrap">
+          Spokane, WA
+        </td>
+        <td class="text-nowrap">
+          28 Aug
+        </td>
+      </tr>
+      <tr>
+        <td class="text-nowrap">
+          <a href="/tournaments/6cdc71bd-1980-4ef9-aa89-4a6234509c28"><i class="fas fa-fw fa-info" data-toggle="tooltip" data-placement="top" title="More Info"></i></a>
+          <a href="/tournaments/6cdc71bd-1980-4ef9-aa89-4a6234509c28/conversation"><i class="far fa-fw fa-envelope" data-toggle="tooltip" data-placement="top" title="Message Organizers"></i></a>
+        </td>
+        <td>
+            <a href="/tournaments/6cdc71bd-1980-4ef9-aa89-4a6234509c28/results">Milford Fencing Summer Series - Senior E &amp; Under Mixed Sabre</a>
+        </td>
+        <td class="text-nowrap">
+          Milford, CT
+        </td>
+        <td class="text-nowrap">
+          26 Aug
+        </td>
+      </tr>
+      <tr>
+        <td class="text-nowrap">
+          <a href="/tournaments/ec9abca8-6a86-450e-a1d1-d711f500b613"><i class="fas fa-fw fa-info" data-toggle="tooltip" data-placement="top" title="More Info"></i></a>
+          <a href="/tournaments/ec9abca8-6a86-450e-a1d1-d711f500b613/conversation"><i class="far fa-fw fa-envelope" data-toggle="tooltip" data-placement="top" title="Message Organizers"></i></a>
+        </td>
+        <td>
+            <a href="/tournaments/ec9abca8-6a86-450e-a1d1-d711f500b613/results">Milford Fencing Summer Series - Senior Unrated Mixed Epee</a>
+        </td>
+        <td class="text-nowrap">
+          Milford, CT
+        </td>
+        <td class="text-nowrap">
+          25 Aug
+        </td>
+      </tr>
+      <tr>
+        <td class="text-nowrap">
+          <a href="/tournaments/2113ff28-7f97-4842-9e76-f4bc0fcdb8cc"><i class="fas fa-fw fa-info" data-toggle="tooltip" data-placement="top" title="More Info"></i></a>
+          <a href="/tournaments/2113ff28-7f97-4842-9e76-f4bc0fcdb8cc/conversation"><i class="far fa-fw fa-envelope" data-toggle="tooltip" data-placement="top" title="Message Organizers"></i></a>
+        </td>
+        <td>
+            <span style="opacity: 0.8; cursor: not-allowed" data-toggle="tooltip" data-placement="top" title="No Results Yet!">MTFC D &amp; Under Mixed Epee</span>
+        </td>
+        <td class="text-nowrap">
+          Lakewood, WA
+        </td>
+        <td class="text-nowrap">
+          25 Aug
+        </td>
+      </tr>
+      <tr>
+        <td class="text-nowrap">
+          <a href="/tournaments/5dbb08cf-1fbd-49ae-9101-df81b3a154cf"><i class="fas fa-fw fa-info" data-toggle="tooltip" data-placement="top" title="More Info"></i></a>
+          <a href="/tournaments/5dbb08cf-1fbd-49ae-9101-df81b3a154cf/conversation"><i class="far fa-fw fa-envelope" data-toggle="tooltip" data-placement="top" title="Message Organizers"></i></a>
+        </td>
+        <td>
+            <a href="/tournaments/5dbb08cf-1fbd-49ae-9101-df81b3a154cf/results">Back to School Foil Tournament</a>
+        </td>
+        <td class="text-nowrap">
+          Los Angeles, CA
+        </td>
+        <td class="text-nowrap">
+          24 Aug
+        </td>
+      </tr>
+  </table>
+</div>
+
+<div class="d-flex justify-content-between flex-column flex-sm-row mt-4">
+  <div>1 of 1840 pages</div>
+  <div><nav class="">
+  <ul class="pagination ">
+    
+    
+        <li class="page-item active">
+  <a class="page-link" href="/results">1</a>
+</li>
+
+        <li class="page-item">
+  <a class="page-link" rel="next" href="/results?page=2">2</a>
+</li>
+
+        <li class="page-item">
+  <a class="page-link" href="/results?page=3">3</a>
+</li>
+
+        <li class="page-item">
+  <a class="page-link" href="/results?page=4">4</a>
+</li>
+
+        <li class="page-item">
+  <a class="page-link" href="/results?page=5">5</a>
+</li>
+
+        <li class="page-item disabled"><a href="#" onclick="return false;" class="page-link">&hellip;</a></li>
+    <li class="page-item">
+  <a class="page-link" rel="next" href="/results?page=2">Next &rsaquo;</a>
+</li>
+
+    <li class="page-item">
+  <a class="page-link" href="/results?page=1840">Last &raquo;</a>
+</li>
+
+  </ul>
+</nav>
+</div>
+</div>
+
+    </div>
+  </div>
+
+        </div>
+          <div id="rightbar">
+            <!-- Askfred_S2S_Sidebarresponsive_ROS -->
+            <style>
+              @media only screen and (min-width: 0px) and (min-height: 0px) {
+                div[id^="bsa-zone_1745844795352-2_123456"] {
+                  min-width: 300px;
+                  min-height: 50px;
+                }
+              }
+              @media only screen and (min-width: 880px) and (min-height: 0px) {
+                div[id^="bsa-zone_1745844795352-2_123456"] {
+                  min-width: 320px;
+                  min-height: 50px;
+                }
+              }
+              @media only screen and (min-width: 1200px) and (min-height: 0px) {
+                div[id^="bsa-zone_1745844795352-2_123456"] {
+                  min-width: 120px;
+                  min-height: 600px;
+                }
+              }
+            </style>
+            <div id="bsa-zone_1745844795352-2_123456"></div>
+
+            <!-- Askfred_S2S_Sidebardesktop_ROS -->
+            <style>
+              @media only screen and (min-width: 0px) and (min-height: 0px) {
+                div[id^="bsa-zone_1746804647276-8_123456"] {
+                  min-width: 0px;
+                  min-height: 0px;
+                }
+              }
+              @media only screen and (min-width: 1200px) and (min-height: 0px) {
+                div[id^="bsa-zone_1746804647276-8_123456"] {
+                  min-width: 120px;
+                  min-height: 600px;
+                }
+              }
+            </style>
+            <div id="bsa-zone_1746804647276-8_123456"></div>
+          </div>
+      </div>
+
+
+      <footer class="pt-4 pb-md-5 pt-md-5 border-top">
+        <div class="container">
+          <div class="row">
+            <div class="col-12 col-md-6 col-lg">
+              <a class="brand p-0 d-flex align-items-center" href="/" style="color: #fff !important"><img style="height: 42px; width: 42px; margin-right: 8px" src="/assets/fencing_56-23f90dde65c1355eae0198c4968f4b52c89c232d9b33180d8d8b688c1bb04409.png" /><span class="d-none d-md-inline-block">AskFRED</span></a>
+            </div>
+            <div class="col-12 col-md-6 col-lg">
+              <h5>About</h5>
+              <ul class="list-unstyled">
+                <li><a class="" href="/about">About FRED</a></li>
+                <li><a class="" href="/news">AskFRED News</a> <span class="badge badge-secondary">1 New</span></li> 
+                <li><a class="" href="/data/usfa">FRED Membership Data</a></li>
+                <li><a class="" href="http://www.fencingtime.com/">Fencing Time</a></li>
+                <li><a class="" href="http://www.fencingreferee.com/">Fencing Referee</a></li>
+              </ul>
+            </div>
+            <div class="col-12 col-md-6 col-lg">
+              <h5>More</h5>
+              <ul class="list-unstyled">
+                <li><a class="" href="https://help.askfred.net/">Help Desk</a></li>
+                <li><a class="" href="https://help.askfred.net/en/articles/8050745-frequently-asked-questions">FAQ</a></li>
+                <li><a class="" href="/terms-of-service">Terms of Service</a></li>
+                <li><a class="" href="/privacy-policy">Privacy Policy</a></li>
+                <li><a class="" href="https://status.askfred.net/">Status Page</a></li>
+              </ul>
+            </div>
+            <div class="col-12 col-md-6 col-lg">
+              <h5>Other</h5>
+              <ul class="list-unstyled">
+                <li><a class="" href="http://usafencing.org">USA Fencing</a></li>
+                <li><a class="" href="http://usfca.org/">USFCA</a></li>
+                <li><a class="" href="http://www.fencing.ca/">CFF/FCE</a></li>
+                <li><a class="" href="http://www.fie.ch/">FIE</a></li>
+                <li><a class="" href="http://www.fencing.net/">Fencing.net</a></li>
+              </ul>
+            </div>
+            
+          </div>
+          <div class="row">
+            <div class="col-12 text-center">
+              <small class="text-muted">© 2023-2025 AskFRED Inc &middot; All Rights Reserved</small><br />
+              <img style="max-width: 150px; margin-top: 8px;" loading="lazy" src="/assets/stripe-partner-23a2ae18c5849d7ca874ac71b1fa4a523df89aebac4dd3216eb2bf258a779aec.png" />
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>
